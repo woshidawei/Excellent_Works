@@ -1,7 +1,6 @@
-# 
-# 【注意使用MarkDown格式】
+【注意使用MarkDown格式】
 
-1. 算法梳理进阶
+# 1. 算法梳理进阶
 ## Task1[随机森林算法梳理] 
 [006-Bodhi](https://blog.csdn.net/harperyeung/article/details/85782374)
 ## Task2 [GBDT算法梳理] 
@@ -10,7 +9,7 @@
 [007-大太阳](https://blog.csdn.net/dzysunshine/article/details/86070280)
 ## Task4[LightGBM算法梳理] 
 [001-明](https://blog.csdn.net/mingxiaod/article/details/86233309)
-1. LeetCode
+# 2. LeetCode
 ## Task1[任务内容]
 [005-董小明](https://blog.csdn.net/mingxiaod/article/details/85794127)
 ## Task2[任务内容]
@@ -20,7 +19,7 @@
 ## Task4[任务内容]
 [09-陶斯豪](https://blog.csdn.net/leaf_scar/article/details/86160430)
 
-1. Python
+# 3. Python
 ## Task1[任务内容]
 [001-lee](https://github.com/houliwei/7-days-for-python/blob/master/Task3.md)
 ## Task2[任务内容] 
@@ -29,7 +28,7 @@
 [001-lee](https://github.com/houliwei/7-days-for-python/blob/master/Task3.md)
 ## Task4[任务内容] 
 [001-lee](https://github.com/houliwei/7-days-for-python/blob/master/Task3.md)
-1. 算法实践
+# 4. 算法实践
 ## Task1[任务内容] 
 [010-被月亮晒黑](https://blog.csdn.net/qq_40314507/article/details/85698455)
 ## Task2[任务内容] 
@@ -39,14 +38,14 @@
 [010-被月亮晒黑](https://blog.csdn.net/qq_40314507/article/details/86001958)
 ## Task4[任务内容] 
 [004-玲](https://zhuanlan.zhihu.com/p/54346698)
-1. 算法实践进阶
+# 5. 算法实践进阶
 ## Task1[数据预处理] 
 [杰](https://blog.csdn.net/u012736685/article/details/85755779)
 ## Task2[特征工程] 
 [Mr.孙](https://blog.csdn.net/qq_30006749/article/details/86025350)
 ## Task3[模型融合] 
 [杰](https://blog.csdn.net/u012736685/article/details/86062182)
-1. 算法梳理
+# 6. 算法梳理
 ## Task1[线性回归] 
 [001- 向灵舟](https://blog.csdn.net/weixin_43831209/article/details/85774622)
 ## Task2[逻辑回归] 
@@ -54,7 +53,7 @@
 ## Task3[决策树] 
 [008- 伊小雪](https://blog.csdn.net/u012835414/article/details/86021339)
 
-1. 统计学
+# 7. 统计学
 ## Task1[基础知识、大数定律、二项及泊松分布、正态分布] 
 [004-等到的过去](http://codingdarkl.top/2019/01/03/statistically/)
 ## Task2[中心极限定理及置信区间] 
@@ -63,7 +62,7 @@
 [001-young](https://www.cnblogs.com/Joeyyoung/p/10212733.html)
 ## Task4[多元线性回归、卡方分布与方差分析] 
 [002-小佳](https://www.jianshu.com/p/ed3172b2379b)
-2. 编程
+# 8. 编程
 ## Task1[数组] 
 [03-小花](https://blog.csdn.net/weixin_39538889/article/details/85720714)
 ## Task2[链表] 

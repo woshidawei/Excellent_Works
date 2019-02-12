@@ -146,13 +146,13 @@
 # 4. 算法实践进阶
 ## Task1[任务内容] 
 [学员群昵称](优秀作业链接)
-[04-X ]https://blog.csdn.net/bear507/article/details/86649069 
+[04-X ](https://blog.csdn.net/bear507/article/details/86649069)
 ## Task2[任务内容] 
 [学员群昵称](优秀作业链接)
-[05-玲 ]https://zhuanlan.zhihu.com/p/55913000   
+[05-玲 ](https://zhuanlan.zhihu.com/p/55913000)
 ## Task3[任务内容] 
 [学员群昵称](优秀作业链接)
-[04-X] [https://blog.csdn.net/bear507/article/details/86726962](https://blog.csdn.net/bear507/article/details/86726962)
+[04-X](https://blog.csdn.net/bear507/article/details/86726962)
 
 ## Task4[任务内容] 
 [学员群昵称](优秀作业链接)
@@ -170,7 +170,7 @@
 ## Task2[中心极限定理] 
 [@014 白云清](https://blog.csdn.net/baibingbingbing/article/details/86683087)
 
-**Task3[假设检验]**
+## Task3[假设检验]
 [@004-Dulp](https://blog.csdn.net/Dulpee/article/details/86702017)
 ## Task4[线性回归，卡方分布与方差分析] 
 [@004-Dulp](https://blog.csdn.net/Dulpee/article/details/86676923)
@@ -190,9 +190,6 @@
 ## Task7[**实战DP**] 
 [3-高娜-python](https://github.com/koala7580/weekCoding/blob/master/day7_dp.md)
 
-
-
-
 # 8. 知乎小组优秀作业
-[全体学员]([https://shimo.im/docs/zfK1AkSwWGU02iI3/](https://shimo.im/docs/zfK1AkSwWGU02iI3/) )
+[全体学员](https://shimo.im/docs/zfK1AkSwWGU02iI3/) 
 

@@ -49,7 +49,7 @@
 ## Task1[线性回归] 
 [001- 向灵舟](https://blog.csdn.net/weixin_43831209/article/details/85774622)
 ## Task2[逻辑回归] 
-[006- DH] (https://blog.csdn.net/m0_38019841/article/details/85868182)
+[006- DH](https://blog.csdn.net/m0_38019841/article/details/85868182)
 ## Task3[决策树] 
 [008- 伊小雪](https://blog.csdn.net/u012835414/article/details/86021339)
 

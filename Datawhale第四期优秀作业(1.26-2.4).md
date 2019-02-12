@@ -3,28 +3,28 @@
 
 1. 高级算法梳理
 ## Task1[随机森林算法梳理] 
-[@dongXY]([https://blog.csdn.net/m0_37548423/article/details/86656070](https://blog.csdn.net/m0_37548423/article/details/86656070))
+[@dongXY](https://blog.csdn.net/m0_37548423/article/details/86656070)
 ## Task2 [GBDT算法梳理] 
-[@dongXY]([https://blog.csdn.net/m0_37548423/article/details/86690494](https://blog.csdn.net/m0_37548423/article/details/86690494))
+[@dongXY](https://blog.csdn.net/m0_37548423/article/details/86690494)
 ## Task3[XGB算法梳理] 
-[@Leonจุ๊บ]( [https://ye980226.github.io/XGB.html](https://ye980226.github.io/XGB.html))
+[@Leonจุ๊บ](https://ye980226.github.io/XGB.html)
 ## Task4[LightGBM算法梳理] 
 [学员群昵称](优秀作业链接)（未进行）
 1. LeetCode
 ## Task1[两数之和]
-[@XaVi]([https://blog.csdn.net/xavierzz/article/details/86663117](https://blog.csdn.net/xavierzz/article/details/86663117))
+[@XaVi](https://blog.csdn.net/xavierzz/article/details/86663117)
 ## Task2[寻找两个有序数组的中位数]
-[@CJ-]([https://blog.csdn.net/qq_35547281/article/details/86676941](https://blog.csdn.net/qq_35547281/article/details/86676941))
+[@CJ-](https://blog.csdn.net/qq_35547281/article/details/86676941)
 ## Task3[最长回文子串]
-[@CJ-]([https://blog.csdn.net/qq_35547281/article/details/86690418](https://blog.csdn.net/qq_35547281/article/details/86690418))
+[@CJ-](https://blog.csdn.net/qq_35547281/article/details/86690418)
 ## Task4[字符串转换整数]
-[@陈嘉钰]([https://blog.csdn.net/Better_Y0808/article/details/86707095](https://blog.csdn.net/Better_Y0808/article/details/86707095))
+[@陈嘉钰](https://blog.csdn.net/Better_Y0808/article/details/86707095)
 ## Task5[最长公共前缀]
-[@chris]([https://blog.csdn.net/weixin_43955166/article/details/86711621](https://blog.csdn.net/weixin_43955166/article/details/86711621))
+[@chris](https://blog.csdn.net/weixin_43955166/article/details/86711621)
 ## Task6[三数之和]
-[@啧啧]([https://blog.csdn.net/weixin_43569867/article/details/86730718](https://blog.csdn.net/weixin_43569867/article/details/86730718))
+[@啧啧](https://blog.csdn.net/weixin_43569867/article/details/86730718)
 ## Task7[最接近的三数之和]
-[@chris]([https://blog.csdn.net/weixin_43955166/article/details/86747586](https://blog.csdn.net/weixin_43955166/article/details/86747586))
+[@chris](https://blog.csdn.net/weixin_43955166/article/details/86747586)
 
 1. Python
 
@@ -266,44 +266,44 @@ http请求
 [学员群昵称](优秀作业链接)
 [05-玲 ]https://zhuanlan.zhihu.com/p/55913000   
 ## Task3[任务内容] 
-[[](https://blog.)[学](https://blog.c)[员](https://blog.cs)[群](https://blog.csdn)[昵](https://blog.csdn.)[称](https://blog.csdn.n)[]](https://blog.csdn.ne)[(](https://blog.csdn.net)[优](https://blog.csdn.net/)[秀](https://blog.csdn.net/b)[作](https://blog.csdn.net/be)[业](https://blog.csdn.net/bea)[链](https://blog.csdn.net/bear)[接](https://blog.csdn.net/bear5)[)](https://blog.csdn.net/bear50)
+[学员群昵称](优秀作业链接)
 [04-X] [https://blog.csdn.net/bear507/article/details/86726962](https://blog.csdn.net/bear507/article/details/86726962)
 
 ## Task4[任务内容] 
 [学员群昵称](优秀作业链接)
 1. 基础算法梳理
 ## Task1[线性回归] 
-[16大鹏]([https://blog.csdn.net/qq_2](http://blog.csdn.net/qq_2)[90278](http://blog.csdn.net/qq_290278)[65/article/details/86667453?from=groupmessage&isappinstalled=0](http://blog.csdn.net/qq_29027865/article/details/86667453?from=groupmessage&isappinstalled=0) )
+[16大鹏](http://blog.csdn.net/qq_29027865/article/details/86667453?from=groupmessage&isappinstalled=0) 
 ## Task2[logistic回归] 
-[21-梁乾明]([https://blog.csdn.net/weixin_37537818/article/details/86677574](https://blog.csdn.net/weixin_37537818/article/details/86677574))
+[21-梁乾明](https://blog.csdn.net/weixin_37537818/article/details/86677574)
 ## Task3[决策树] 
-[2-Luke]([https://blog.csdn.net/ljfwz153076024/article/details/86710816](https://blog.csdn.net/ljfwz153076024/article/details/86710816))
+[2-Luke](https://blog.csdn.net/ljfwz153076024/article/details/86710816)
 
 1. 统计学
 ## Task1[基础知识，二项及泊松分布，大数定律，正态分布] 
-[@013_Regularboy]([https://github.com/smiles2011hyc/StatisticsTraining/blob/master/StatisticsDay1.md](https://github.com/smiles2011hyc/StatisticsTraining/blob/master/StatisticsDay1.md)
+[@013_Regularboy](https://github.com/smiles2011hyc/StatisticsTraining/blob/master/StatisticsDay1.md)
 ## Task2[中心极限定理] 
-[@014 白云清]([https://blog.csdn.net/baibingbingbing/article/details/86683087](https://blog.csdn.net/baibingbingbing/article/details/86683087))
+[@014 白云清](https://blog.csdn.net/baibingbingbing/article/details/86683087)
 
 **Task3[假设检验]**
-[@004-Dulp]([https://blog.csdn.net/Dulpee/article/details/86702017](https://blog.csdn.net/Dulpee/article/details/86702017))
+[@004-Dulp](https://blog.csdn.net/Dulpee/article/details/86702017)
 ## Task4[线性回归，卡方分布与方差分析] 
-[@004-Dulp]([https://blog.csdn.net/Dulpee/article/details/86676923](https://blog.csdn.net/Dulpee/article/details/86676923)  [https://blog.csdn.net/Dulpee/article/details/86744293](https://blog.csdn.net/Dulpee/article/details/86744293)）
+[@004-Dulp](https://blog.csdn.net/Dulpee/article/details/86676923)
 2. 编程学习
 ## Task1[**数组**] 
-[4-卓伟-python][https://github.com/HC9/datawhale/blob/master/task_1.md](https://github.com/HC9/datawhale/blob/master/task_1.md)
+[4-卓伟-python](https://github.com/HC9/datawhale/blob/master/task_1.md)
 ## Task2[**链表**] 
-[5_Deng_python]([https://blog.csdn.net/weixin_39441762/article/details/86663575](https://blog.csdn.net/weixin_39441762/article/details/86663575)
+[5_Deng_python](https://blog.csdn.net/weixin_39441762/article/details/86663575)
 ## Task3[**队列及堆**] 
-[8-z][https://github.com/moonlight1776/leetcode/blob/master/day3.md](https://github.com/moonlight1776/leetcode/blob/master/day3.md)
+[8-z](https://github.com/moonlight1776/leetcode/blob/master/day3.md)
 ## Task4[**二叉树**] 
-[5_Deng_python]([https://blog.csdn.net/weixin_39441762/article/details/86684027](https://blog.csdn.net/weixin_39441762/article/details/86684027)
+[5_Deng_python](https://blog.csdn.net/weixin_39441762/article/details/86684027)
 ## Task5[**递归及DP**] 
-[14 c++ 鲁力][https://blog.csdn.net/qq_36589234/article/details/86708040](https://blog.csdn.net/qq_36589234/article/details/86708040)
+[14 c++ 鲁力](https://blog.csdn.net/qq_36589234/article/details/86708040)
 ## Task6**实战递归**] 
-[6 python-野子][https://blog.csdn.net/weixin_37840621/article/details/86724057](https://blog.csdn.net/weixin_37840621/article/details/86724057)
+[6 python-野子](https://blog.csdn.net/weixin_37840621/article/details/86724057)
 ## Task7[**实战DP**] 
-[3-高娜-python][https://github.com/koala7580/weekCoding/blob/master/day7_dp.md](https://github.com/koala7580/weekCoding/blob/master/day7_dp.md)
+[3-高娜-python](https://github.com/koala7580/weekCoding/blob/master/day7_dp.md)
 
 
 

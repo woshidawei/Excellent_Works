@@ -12,7 +12,7 @@
 如果有想要分享的内容或发现有误的地方，可以通过以下方式修改和贡献，流程基于 Pull Request :
 
 1. 首先 fork 该项目
-2. 把 fork 后的项目（即是你的项目） clone 到你的本地 `git clone https://github.com/Datawhale18/Excellent_Works.git`
+2. 把 fork 后的项目（即是你的项目） clone 到你的本地 `git clone https://github.com/xxx/Excellent_Works.git`
 3. 运行 `git remote add Datawhale_EW https://github.com/Datawhale18/Excellent_Works.git` 新增远端库
 4. 运行 `git pull Datawhale_EW` 拉取最新修改及合并到本地
 5. 修改内容

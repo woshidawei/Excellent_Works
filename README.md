@@ -2,7 +2,7 @@
 
 # Excellent_Works
 
-这个 repo 主要分享Datawhale各个组队学习的优秀作业！
+这个 repo 主要分享Datawhale各个组队学习的优秀作业，本着自愿、公开的精神，期待热爱开源和贡献的你一起加入！
 
 
 

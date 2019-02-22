@@ -29,3 +29,5 @@ git下载安装：http://baijiahao.baidu.com/s?id=1601036689157983619&wfr=spider
 github----向开源框架提交pr的过程：https://blog.csdn.net/vim_wj/article/details/78300239
 
 git clone 过慢科学加快速度：https://blog.csdn.net/vim_wj/article/details/78300239
+
+**遇到问题的小伙伴在微信群里直接联系【黑桃】**

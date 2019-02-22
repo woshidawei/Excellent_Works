@@ -1,6 +1,3 @@
-git下载安装：http://baijiahao.baidu.com/s?id=1601036689157983619&wfr=spider&for=pc
-github----向开源框架提交pr的过程：https://blog.csdn.net/vim_wj/article/details/78300239
-git clone 过慢科学加快速度：https://blog.csdn.net/vim_wj/article/details/78300239
 
 
 # Excellent_Works
@@ -23,3 +20,11 @@ git clone 过慢科学加快速度：https://blog.csdn.net/vim_wj/article/detail
 7. 登录 Github 在你首页可以看到一个 `pull request` 按钮，点击它，填写一些说明信息，然后提交即可。
 
 `1~3` 是初始化操作，执行一次即可。在修改前请先执行步骤 `4` 同步最新的修改（减少冲突），然后执行 `5~7` 既可。
+
+参考资料：
+
+git下载安装：http://baijiahao.baidu.com/s?id=1601036689157983619&wfr=spider&for=pc
+
+github----向开源框架提交pr的过程：https://blog.csdn.net/vim_wj/article/details/78300239
+
+git clone 过慢科学加快速度：https://blog.csdn.net/vim_wj/article/details/78300239
